@@ -1,0 +1,5 @@
+c:\users\vanshika pandey\documents\visual studio 2012\Projects\GraphColouring\GraphColouring\bin\Debug\GraphColouring.pdb
+c:\users\vanshika pandey\documents\visual studio 2012\Projects\GraphColouring\GraphColouring\obj\Debug\GraphColouring.csprojResolveAssemblyReference.cache
+c:\users\vanshika pandey\documents\visual studio 2012\Projects\GraphColouring\GraphColouring\obj\Debug\GraphColouring.pdb
+c:\users\vanshika pandey\documents\visual studio 2012\Projects\GraphColouring\GraphColouring\bin\Debug\GraphColouring.exe
+c:\users\vanshika pandey\documents\visual studio 2012\Projects\GraphColouring\GraphColouring\obj\Debug\GraphColouring.exe
